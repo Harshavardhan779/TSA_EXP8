@@ -6,7 +6,8 @@
 
 
 ### AIM:
-To implement Moving Average Model and Exponential smoothing Using Python.
+To implement Moving Average Model and Exponential smoothing Using Python on National Stock exchange
+.
 ### ALGORITHM:
 1. Import necessary libraries
 2. Read the electricity time series data from a CSV file,Display the shape and the first 20 rows of
